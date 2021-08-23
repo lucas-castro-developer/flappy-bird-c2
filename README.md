@@ -9,7 +9,7 @@
   <h3 align="center">Flappy Bird</h3>
 
   <p align="center">
-    Breve descrição da aplicação
+    Ajude nosso amigo pássaro percorrer o trajeto sem bater nos canos
     <br />
     <a href="https://github.com/lucas-castro-developer/flappy-bird-c2"><strong>Explore as documentações »</strong></a>
     <br />
@@ -41,17 +41,23 @@
 
 ## Sobre o projeto
 
-** Descrição do projeto **
+O Projeto Flappy Bird foi desenvolvido durante o módulo honônimo do curso `Aprenda a Criar Jogos com Construct 2` da One Day Code, como um clone do famoso jogo Flappy Bird.
 
-Abaixo, segue imagens do layout construído em dispositivos  `mobile` e `desktop`:
+O Game consiste em controlar o pássaro através da gravidade através de toques na tela, passar entre os canos, assim ganhando pontos e percorrer a maior trajetória possível.
 
-**Mobile**
+O layout é constituído de três partes principais:
 
-<img src="images/IMAGEM_APLICACAO_MOBILE">
+**Tela inicial**
 
-**Desktop**
+<img src="images/screen-1.png">
 
-<img src="images/IMAGEM_APLICACAO_DESKTOP">
+**Em andamento**
+
+<img src="images/screen-2.png">
+
+**Fim de jogo**
+
+<img src="images/screen-3.png">
 
 ### Construído com
 
